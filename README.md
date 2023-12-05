@@ -125,6 +125,8 @@ We curated 9 tasks within the Nexus Function Calling Benchmark specifically arou
 
 They are based on real-world APIs. Here are the 8 datasets for evaluation:
 
+[The function definitions for all benchmarks can be found here](https://huggingface.co/datasets/Nexusflow/Function_Call_Definitions).
+
 - <a href="https://huggingface.co/datasets/Nexusflow/NVDLibraryBenchmark" target="_blank"> NVDLibrary </a>
 - <a href="https://huggingface.co/datasets/Nexusflow/VirusTotalBenchmark" target="_blank"> VirusTotal </a>
 - <a href="https://huggingface.co/datasets/Nexusflow/OTXAPIBenchmark" target="_blank"> OTX </a>
