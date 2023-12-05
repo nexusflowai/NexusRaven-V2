@@ -6,7 +6,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 
 <p align="center">
-<a href="https://nexusflow.ai" target="_blank">Nexusflow Website</a> - <a href="https://nexusflow.ai/blogs/ravenv2" target="_blank">NexusRaven-V2 blog post</a> - <a href="https://huggingface.co/Nexusflow/NexusRaven-V2-13B" target="_blank">NexusRaven-V2-13B</a> 
+<a href="https://huggingface.co/Nexusflow" target="_blank">Nexusflow HF</a> - <a href="https://discord.gg/HDSVmNAs3y" target="_blank">Nexusflow Discord</a> - <a href="http://nexusflow.ai/blogs/ravenv2" target="_blank">NexusRaven-V2 blog post</a> - <a href="https://colab.research.google.com/drive/19JYixRPPlanmW5q49WYi_tU8rhHeCEKW?usp=sharing" target="_blank">Prompting Notebook CoLab</a> - <a href="https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard" target="_blank">Leaderboard</a> - <a href="https://huggingface.co/spaces/Nexusflow/NexusRaven-V2-Demo" target="_blank">Read-World Demo</a> - <a href="https://huggingface.co/Nexusflow/NexusRaven-V2-13B" target="_blank">NexusRaven-V2-13B HF</a>
 </p>
 
 <p align="center" width="100%">
