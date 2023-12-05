@@ -6,7 +6,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 
 <p align="center">
-<a href="https://nexusflow.ai" target="_blank">Nexusflow Website</a> - <a href=" https://nexusflow.ai/blogs/ravenv2" target="_blank">NexusRaven-V2 blog post</a> - <a href="https://huggingface.co/Nexusflow/NexusRaven-13B" target="_blank">NexusRaven-13B</a> - <a href="https://www.linkedin.com/feed/update/urn:li:activity:7113263527909330945/" target="_blank">NexusRaven-V2 LinkedIn Post</a> - <a href="https://x.com/NexusflowX/status/1707470614012035561?s=20" target="_blank">NexusRaven-V2 Twitter Thread</a>
+<a href="https://nexusflow.ai" target="_blank">Nexusflow Website</a> - <a href=" https://nexusflow.ai/blogs/ravenv2" target="_blank">NexusRaven-V2 blog post</a> - <a href="https://huggingface.co/Nexusflow/NexusRaven-V2-13B" target="_blank">NexusRaven-V2-13B</a> 
 </p>
 
 <p align="center" width="100%">
@@ -222,7 +222,7 @@ We thank the CodeLLaMa Team for their great foundational models that made NexusR
       title={NexusRaven: Surpassing the state-of-the-art in open-source function calling LLMs}, 
       author={Nexusflow.ai team},
       year={2023},
-      url={ https://nexusflow.ai/blogs/ravenv2}
+      url={https://nexusflow.ai/blogs/ravenv2}
 }
 ```
 
