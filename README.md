@@ -6,7 +6,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 
 <p align="center">
-<a href="https://nexusflow.ai" target="_blank">Nexusflow Website</a> - <a href=" https://nexusflow.ai/blogs/ravenv2" target="_blank">NexusRaven-V2 blog post</a> - <a href="https://huggingface.co/Nexusflow/NexusRaven-V2-13B" target="_blank">NexusRaven-V2-13B</a> 
+<a href="https://nexusflow.ai" target="_blank">Nexusflow Website</a> - <a href="https://nexusflow.ai/blogs/ravenv2" target="_blank">NexusRaven-V2 blog post</a> - <a href="https://huggingface.co/Nexusflow/NexusRaven-V2-13B" target="_blank">NexusRaven-V2-13B</a> 
 </p>
 
 <p align="center" width="100%">
