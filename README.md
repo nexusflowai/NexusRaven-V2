@@ -115,6 +115,8 @@ Please follow this prompting template to maximize the performance of RavenV2.
 
 [If you currently have a workflow that is built around OpenAI's function calling and you want to try NexusRaven-V2, we have a package that helps you drop in NexusRaven-V2.](https://github.com/nexusflowai/nexusraven-pip)
 
+```pip install nexusraven``` 
+
 Please give it a try!
 
 ## NexusRaven-V2 on Nexus Function Calling Benchmark
