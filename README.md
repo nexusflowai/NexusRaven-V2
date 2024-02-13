@@ -117,9 +117,9 @@ Please follow this prompting template to maximize the performance of RavenV2.
 
 ```!pip install nexusraven```  
 
-Nexusflow provides OpenAI-compatible clients to use Nexusraven-V2 as a drop-in replacement in your workflow 
+Nexusflow provides OpenAI-compatible clients to use Nexusraven-V2 as a drop-in replacement in your workflow. 
 
-Join our <a href="https://discord.gg/HDSVmNAs3y" target="_blank">Nexusflow Discord</a> we are very active in supporting you!
+Join our <a href="https://discord.gg/HDSVmNAs3y" target="_blank">Nexusflow Discord</a>! we are very active in supporting you!
 
 ## NexusRaven-V2 on Nexus Function Calling Benchmark
 
