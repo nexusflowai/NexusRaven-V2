@@ -111,11 +111,15 @@ If you would like to prevent the generation of the explanation of the function c
 Please follow this prompting template to maximize the performance of RavenV2. 
 
 
-### Using with OpenAI FC Schematics
+### OpenAI-Compatible RESTful Client
 
-[If you currently have a workflow that is built around OpenAI's function calling and you want to try NexusRaven-V2, we have a package that helps you drop in NexusRaven-V2.](https://github.com/nexusflowai/nexusraven-pip)
+[Nexusraven pip package](https://pypi.org/project/nexusraven/)
 
-Please give it a try!
+```!pip install nexusraven```  
+
+Nexusflow provides OpenAI-compatible clients to use Nexusraven-V2 as a drop-in replacement in your workflow. 
+
+Join our <a href="https://discord.gg/HDSVmNAs3y" target="_blank">Nexusflow Discord</a>! we are very active in supporting you!
 
 ## NexusRaven-V2 on Nexus Function Calling Benchmark
 
